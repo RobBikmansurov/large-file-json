@@ -10,7 +10,7 @@ require_relative './task_report_stats'
 require_relative './task_report_stats_quick'
 
 Benchmark.ips do |x|
-  x.config(time: 5, warmup: 2)
+  x.config(time: 10, warmup: 2)
 
   x.report("old") { work_old }
   x.report('new') { work }
