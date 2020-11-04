@@ -1,0 +1,6 @@
+user,4,Corie,Erika,32
+session,4,0,Chrome 11,49,2019-02-05
+session,4,1,Safari 44,18,2017-09-01
+session,4,2,Firefox 32,88,2017-06-01
+session,4,3,Chrome 28,82,2018-03-18
+session,4,4,Firefox 38,36,2018-06-11
